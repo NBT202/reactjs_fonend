@@ -1,0 +1,54 @@
+{
+    "home-header": {
+        "speciality": "Medical specialty",
+        "search-doctor": "Find a doctor by specialty",
+        "health-facility": "Health facilities",
+        "select-room": "Choose hospital, clinic",
+        "doctor": "Doctor",
+        "select-doctor": "Choose a good doctor",
+        "fee": "Medical Checkup Package",
+        "check-health": "General health check",
+        "support": " Support",
+        "welcome": "welcome, "
+    },
+    "banner": {
+        "title1": "MEDICAL BACKGROUND",
+        "title2": "COMPREHENSIVE HEALTH CARE",
+        "search-pla": "Find a medical specialty",
+        "examination-service1": "Specialized examination",
+        "examination-service2": "Remote examination",
+        "examination-service3": "General examination",
+        "examination-service4": "Medical test",
+        "examination-service5": "Mental health",
+        "examination-service6": "Dental examination"
+    },
+    "menu": {
+        "admin": {
+            "manage-user": "User",
+            "manage-doctor": "Manage doctor",
+            "manage-admin": "Manage admin",
+            "crud": "Create users",
+            "crud-redux": "Create users_redux",
+            "manage-clinic": "Manage clinic",
+            "clinic": "Clinic",
+            "specialty": "Specialties",
+            "manage-specialty": "Manage specialties",
+            "hanbook": "Hanbook",
+            "manage-hanbook": "Manage hanbook"
+        }
+    },
+    "manage-user": {
+        "add": "Add a new user",
+        "email": "Email",
+        "password": "Password",
+        "first-name": "First name",
+        "last-name": "Last name",
+        "phone-number": "Phone number",
+        "address": "Address",
+        "gender": "Gender",
+        "position": "Position",
+        "role": "Role",
+        "save": "Save user",
+        "image": "Image"
+    }
+}
